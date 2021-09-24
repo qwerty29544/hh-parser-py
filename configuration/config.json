@@ -1,0 +1,19 @@
+{
+  "url": "https://api.hh.ru/vacancies",
+  "number of pages": 40,
+  "vacs on page": 10,
+  "keywords":
+    [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Управление персоналом",
+      "Преподаватель математики",
+      "Python разработчик",
+      "UI/UX",
+      "Gamedev",
+      "Преподаватель английского языка",
+      "Аналитик",
+      "Слесарь"
+    ]
+}
